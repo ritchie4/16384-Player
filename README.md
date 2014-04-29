@@ -4,7 +4,7 @@ This repository contains a program which simulates a player for the game 16384. 
 -----------------------
 ### Required Installations
 Install the following in the listed order:
-*   Java
+*   Java 7
 *   Any web browser
 
 -----------------------
